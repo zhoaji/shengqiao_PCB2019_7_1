@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=输出板.SchDoc|Designator=U_ADC_USB|SchDesignator=U_ADC_USB|FileName=ADC_USB.SchDoc|SymbolType=Normal|RawFileName=ADC_USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=输出板.SchDoc|Designator=U_Li_Monitor|SchDesignator=U_Li_Monitor|FileName=Li_Monitor.SchDoc|SymbolType=Normal|RawFileName=Li_Monitor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=输出板.SchDoc|Designator=U_电源3|SchDesignator=U_电源3|FileName=电源.SchDoc|SymbolType=Normal|RawFileName=电源.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=输出板.SchDoc|Designator=高压刺激电路|SchDesignator=高压刺激电路|FileName=高压刺激电路.SchDoc|SymbolType=Normal|RawFileName=高压刺激电路.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=输出板.SchDoc

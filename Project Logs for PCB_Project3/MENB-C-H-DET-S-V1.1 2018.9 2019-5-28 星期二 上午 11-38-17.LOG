@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=U_ADC_USB Member=C100
+Added Component: Designator=C13(CC1608-0603)
+Added Pin To Net: NetName=GND5V1 Pin=C13-1
+Added Pin To Net: NetName=A3V3 Pin=C13-2
+Added Pin To Net: NetName=GND5V2 Pin=K1-2
+Added Member To Class: ClassName=U_ADC_USB Member=Component C13 0.1uF
+Added Room: Name=U_ADC_USB
+Added Room: Name=U_Li_Monitor
+Added Room: Name=U_电源3
+Added Room: Name=输出板
+Added Room: Name=高压刺激电路

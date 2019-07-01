@@ -1,0 +1,117 @@
+Removed Pin From Net: NetName=GND5V1 Pin=P1-13
+Removed Pin From Net: NetName=16 Pin=P1-14
+Removed Pin From Net: NetName=GND5V1 Pin=P1-15
+Removed Pin From Net: NetName=17 Pin=P1-16
+Removed Pin From Net: NetName=VCC5V1 Pin=P1-17
+Removed Pin From Net: NetName=OUT1+ Pin=P1-18
+Removed Pin From Net: NetName=VCC5V1 Pin=P1-19
+Removed Pin From Net: NetName=OUT1- Pin=P1-20
+Removed Pin From Net: NetName=OUT2+ Pin=P1-22
+Removed Pin From Net: NetName=LED_LOW Pin=P1-23
+Removed Pin From Net: NetName=OUT2- Pin=P1-24
+Removed Pin From Net: NetName=LED_MEDIUMLOW Pin=P1-25
+Removed Pin From Net: NetName=LED_MEDIUM Pin=P1-26
+Removed Pin From Net: NetName=LED_HIGH Pin=P1-27
+Removed Pin From Net: NetName=5V_7805 Pin=P1-28
+Change Component DesignItemId : Designator=DC-DC1 Old DesignItemId= New DesignItemId=12-5
+Change Component DesignItemId : Designator=DC-DC3 Old DesignItemId= New DesignItemId=12-5
+Change Component DesignItemId : Designator=U201 Old DesignItemId= New DesignItemId=CN1185
+Change Component DesignItemId : Designator=D1 Old DesignItemId= New DesignItemId=Diode
+Change Component DesignItemId : Designator=U200 Old DesignItemId= New DesignItemId=L7805
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R7 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R19 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R21 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R22 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R23 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R24 Old DesignItemId= New DesignItemId=Res1
+Change Component DesignItemId : Designator=R18 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R9 Old DesignItemId= New DesignItemId=Res3
+Change Component DesignItemId : Designator=R10 Old DesignItemId= New DesignItemId=Res3
+Change Component DesignItemId : Designator=R13 Old DesignItemId= New DesignItemId=Res3
+Change Component DesignItemId : Designator=R14 Old DesignItemId= New DesignItemId=Res3
+Change Component DesignItemId : Designator=R15 Old DesignItemId= New DesignItemId=Res3
+Change Component DesignItemId : Designator=P7 Old DesignItemId= New DesignItemId=ST-LINK
+Change Component DesignItemId : Designator=U3 Old DesignItemId= New DesignItemId=STM32F103VET6
+Change Component DesignItemId : Designator=S1 Old DesignItemId= New DesignItemId=SW-PB
+Change Component DesignItemId : Designator=U2 Old DesignItemId= New DesignItemId=TLC2252
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=TLP521-4
+Change Component DesignItemId : Designator=P_F3 Old DesignItemId=Fuse New DesignItemId=Fuse 1
+Change Component DesignItemId : Designator=P4 Old DesignItemId=H New DesignItemId=Header 4
+Change Component DesignItemId : Designator=P5 Old DesignItemId=H New DesignItemId=Header 5
+Change Component Description : Designator=D1 Old Description= New Description=1.0 Ampere Schottky Barrier Rectifiers
+Change Component Description : Designator=P_F3 Old Description= New Description=Fuse
+Change Component Description : Designator=P4 Old Description= New Description=Header, 4-Pin
+Change Component Description : Designator=P5 Old Description= New Description=Header, 5-Pin
+Change Component Description : Designator=C32 Old Description= New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=C34 Old Description= New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=R2 Old Description= New Description=Resistor
+Change Component Description : Designator=R7 Old Description= New Description=Resistor
+Change Component Description : Designator=R8 Old Description= New Description=Resistor
+Change Component Description : Designator=R9 Old Description= New Description=Resistor
+Change Component Description : Designator=R10 Old Description= New Description=Resistor
+Change Component Description : Designator=R13 Old Description= New Description=Resistor
+Change Component Description : Designator=R14 Old Description= New Description=Resistor
+Change Component Description : Designator=R15 Old Description= New Description=Resistor
+Change Component Description : Designator=R18 Old Description= New Description=Resistor
+Change Component Description : Designator=R19 Old Description= New Description=Resistor
+Change Component Description : Designator=R20 Old Description= New Description=Resistor
+Change Component Description : Designator=R21 Old Description= New Description=Resistor
+Change Component Description : Designator=R22 Old Description= New Description=Resistor
+Change Component Description : Designator=R23 Old Description= New Description=Resistor
+Change Component Description : Designator=R24 Old Description= New Description=Resistor
+Change Component Description : Designator=S1 Old Description= New Description=Switch-按键
+Change Component Description : Designator=C11 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C19 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C22 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C24 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C25 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C26 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C27 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C28 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C29 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C30 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C31 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C33 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C35 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C36 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C37 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C38 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C39 Old Description=Capacitor ( New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=P1 Old Description=Hea New Description=Header, 17-Pin, Dual row
+Change Component Description : Designator=C21 Old Description=Pol New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C23 Old Description=Pol New Description=Polarized Capacitor (Radial)
+Change Component Library : Designator=U3 Old Library= New Library=常用器件原理图库.SchLib
+Change Component Library : Designator=U200 Old Library=8通? New Library=8通道刺激仪.SchLib
+Change Component Library : Designator=U201 Old Library=8通? New Library=8通道刺激仪.SchLib
+Change Component Library : Designator=R18 Old Library=Miscellaneous De New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R20 Old Library=Miscellaneous De New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R9 Old Library=Miscellaneous Devices_ New Library=Miscellaneous Devices_1.IntLib
+Change Component Library : Designator=R10 Old Library=Miscellaneous Devices_ New Library=Miscellaneous Devices_1.IntLib
+Change Component Library : Designator=R13 Old Library=Miscellaneous Devices_ New Library=Miscellaneous Devices_1.IntLib
+Change Component Library : Designator=R14 Old Library=Miscellaneous Devices_ New Library=Miscellaneous Devices_1.IntLib
+Change Component Library : Designator=R15 Old Library=Miscellaneous Devices_ New Library=Miscellaneous Devices_1.IntLib
+Change Component Library : Designator=U2 Old Library=WL New Library=WLM_protype.IntLib
+Change Component Library : Designator=U5 Old Library=常用? New Library=常用器件原理图库.SchLib
+Added Pin To Net: NetName=16 Pin=P1-13
+Added Pin To Net: NetName=GND5V1 Pin=P1-14
+Added Pin To Net: NetName=17 Pin=P1-15
+Added Pin To Net: NetName=GND5V1 Pin=P1-16
+Added Pin To Net: NetName=LED_HIGH Pin=P1-17
+Added Pin To Net: NetName=LED_MEDIUMLOW Pin=P1-18
+Added Pin To Net: NetName=LED_MEDIUM Pin=P1-19
+Added Pin To Net: NetName=LED_LOW Pin=P1-20
+Added Pin To Net: NetName=5V_7805 Pin=P1-21
+Added Pin To Net: NetName=VCC5V1 Pin=P1-22
+Added Pin To Net: NetName=VCC5V1 Pin=P1-24
+Added Pin To Net: NetName=OUT1+ Pin=P1-25
+Added Pin To Net: NetName=OUT2+ Pin=P1-27
+Added Pin To Net: NetName=OUT1- Pin=P1-28
+Added Pin To Net: NetName=OUT2- Pin=P1-30
+Added Room: Name=U_ADC_USB
+Added Room: Name=U_Li_Monitor
+Added Room: Name=U_电源3
+Added Room: Name=输出板
+Added Room: Name=高压刺激电路

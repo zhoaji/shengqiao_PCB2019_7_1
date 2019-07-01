@@ -1,0 +1,48 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Administrator\Desktop\高压\20151103-控制&激励板_高压 _V1.0\20151101-控制&激励板_高压 _V1.0\PCB\menb_HV_v1.0 - Cu.PcbDoc
+Date     : 2018/9/21 星期五
+Time     : 上午 10:18:26
+
+Processing Rule : Clearance Constraint (Gap=17mil) (INPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Arc (4372.123mil,597.877mil)  Top Layer
+Rule Violations :1
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0mil) (Max=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=40mil) (InNetClass('VCC-VEE'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=80mil) (InNetClass('GND'))
+Rule Violations :0
+
+
+Violations Detected : 1
+Time Elapsed        : 00:00:01

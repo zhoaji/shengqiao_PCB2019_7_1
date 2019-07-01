@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=OUT2+ Pin=P1-27
+Removed Pin From Net: NetName=OUT1- Pin=P1-28
+Added Pin To Net: NetName=OUT1- Pin=P1-27
+Added Pin To Net: NetName=OUT2+ Pin=P1-28
+Added Room: Name=U_ADC_USB
+Added Room: Name=U_Li_Monitor
+Added Room: Name=U_电源3
+Added Room: Name=输出板
+Added Room: Name=高压刺激电路

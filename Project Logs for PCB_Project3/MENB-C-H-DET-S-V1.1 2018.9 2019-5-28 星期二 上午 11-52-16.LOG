@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=PE4 Pin=K1-1
+Removed Pin From Net: NetName=GND5V2 Pin=K1-2
+Removed Pin From Net: NetName=PE5 Pin=K2-1
+Removed Pin From Net: NetName=GND5V2 Pin=K2-2
+Removed Member From Class: ClassName=高压刺激电路 Member=K1
+Removed Member From Class: ClassName=高压刺激电路 Member=K2
+Change Component DesignItemId : Designator=DC-DC1 Old DesignItemId= New DesignItemId=12-5
+Change Component DesignItemId : Designator=DC-DC3 Old DesignItemId= New DesignItemId=12-5
+Change Component DesignItemId : Designator=2 Old DesignItemId= New DesignItemId=12-60
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=AMS1117
+Change Component DesignItemId : Designator=U201 Old DesignItemId= New DesignItemId=CN1185
+Change Component DesignItemId : Designator=U200 Old DesignItemId= New DesignItemId=L7805
+Change Component DesignItemId : Designator=P7 Old DesignItemId= New DesignItemId=ST-LINK
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=TLP521-4
+Change Component DesignItemId : Designator=R11 Old DesignItemId=ResVar New DesignItemId=ResVari
+Change Component DesignItemId : Designator=R12 Old DesignItemId=ResVar New DesignItemId=ResVari
+Change Component DesignItemId : Designator=U3 Old DesignItemId=STM32 New DesignItemId=STM32F103VET6
+Change Component DesignItemId : Designator=U2 Old DesignItemId=TLC225 New DesignItemId=TLC2252
+Change Component Description : Designator=P_F1 Old Description= New Description=Fuse
+Change Component Description : Designator=P_F2 Old Description= New Description=Fuse
+Change Component Description : Designator=U4 Old Description= New Description=MAX14803
+Change Component Description : Designator=R16 Old Description= New Description=Resistor
+Change Component Description : Designator=R17 Old Description= New Description=Resistor
+Change Component Description : Designator=R100 Old Description= New Description=Resistor
+Change Component Description : Designator=D1 Old Description=1.0 Ampere Schottky Barrier Re New Description=1.0 Ampere Schottky Barrier Rectifiers
+Change Component Description : Designator=C11 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C19 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C22 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C24 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C25 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C26 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C27 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C28 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C29 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C30 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C31 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C33 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C35 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C36 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C37 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C38 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C39 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C13 Old Description=Capacitor (Semiconductor SIM Mode New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=Y1 Old Description=Crystal Oscill New Description=Crystal Oscillator
+Change Component Description : Designator=P_F3 Old Description=Fu New Description=Fuse
+Change Component Description : Designator=P6 Old Description=Heade New Description=Header, 2-Pin
+Change Component Description : Designator=P8 Old Description=Heade New Description=Header, 2-Pin
+Change Component Description : Designator=P9 Old Description=Heade New Description=Header, 2-Pin
+Change Component Description : Designator=P3 Old Description=Header, 2-P New Description=Header, 2-Pin
+Change Component Description : Designator=JP6 Old Description=Header, 3-P New Description=Header, 3-Pin
+Change Component Description : Designator=POWER1 Old Description=Header, 3-P New Description=Header, 3-Pin
+Change Component Description : Designator=POWER2 Old Description=Header, 3-P New Description=Header, 3-Pin
+Change Component Description : Designator=POWER3 Old Description=Header, 3-P New Description=Header, 3-Pin
+Change Component Description : Designator=POWER4 Old Description=Header, 3-P New Description=Header, 3-Pin
+Change Component Description : Designator=P4 Old Description=Header, 4-P New Description=Header, 4-Pin
+Change Component Description : Designator=P5 Old Description=Header, 5-P New Description=Header, 5-Pin
+Change Component Description : Designator=JP1 Old Description=Header, 6-P New Description=Header, 6-Pin
+Change Component Description : Designator=P1 Old Description=Header, 17-Pin, D New Description=Header, 17-Pin, Dual row
+Change Component Description : Designator=P_L1 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L2 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L3 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L4 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L5 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L6 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L8 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L9 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=Q5 Old Description=NPN General Purpose A New Description=NPN General Purpose Amplifier
+Change Component Description : Designator=Q7 Old Description=NPN General Purpose A New Description=NPN General Purpose Amplifier
+Change Component Description : Designator=Q8 Old Description=NPN General Purpose A New Description=NPN General Purpose Amplifier
+Change Component Description : Designator=Q9 Old Description=NPN General Purpose A New Description=NPN General Purpose Amplifier
+Change Component Description : Designator=Q10 Old Description=NPN General Purpose A New Description=NPN General Purpose Amplifier
+Change Component Description : Designator=Q1 Old Description=PNP General Purpose A New Description=PNP General Purpose Amplifier
+Change Component Description : Designator=Q2 Old Description=PNP General Purpose A New Description=PNP General Purpose Amplifier
+Change Component Description : Designator=Q3 Old Description=PNP General Purpose A New Description=PNP General Purpose Amplifier
+Change Component Description : Designator=Q4 Old Description=PNP General Purpose A New Description=PNP General Purpose Amplifier
+Change Component Description : Designator=Q6 Old Description=PNP General Purpose A New Description=PNP General Purpose Amplifier
+Change Component Description : Designator=P_C1 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C2 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C3 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C4 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C5 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C6 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C8 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C9 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=C32 Old Description=Polarized Capacitor (Surface Mount New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=C34 Old Description=Polarized Capacitor (Surface Mount New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=C20 Old Description=Polarized Capacitor New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C21 Old Description=Polarized Capacitor New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C23 Old Description=Polarized Capacitor New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=R9 Old Description=Resist New Description=Resistor
+Change Component Description : Designator=R10 Old Description=Resist New Description=Resistor
+Change Component Description : Designator=R13 Old Description=Resist New Description=Resistor
+Change Component Description : Designator=R14 Old Description=Resist New Description=Resistor
+Change Component Description : Designator=R15 Old Description=Resist New Description=Resistor
+Change Component Description : Designator=R2 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R7 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R8 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R19 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R21 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R22 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R23 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R24 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=S1 Old Description=S New Description=Switch-按键
+Added Room: Name=U_ADC_USB
+Added Room: Name=U_Li_Monitor
+Added Room: Name=U_电源3
+Added Room: Name=输出板
+Added Room: Name=高压刺激电路

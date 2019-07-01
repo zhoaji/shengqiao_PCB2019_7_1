@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LED_MEDIUMLOW Pin=P1-18
+Removed Pin From Net: NetName=LED_MEDIUM Pin=P1-19
+Added Pin To Net: NetName=LED_MEDIUM Pin=P1-18
+Added Pin To Net: NetName=LED_MEDIUMLOW Pin=P1-19
+Added Room: Name=U_ADC_USB
+Added Room: Name=U_Li_Monitor
+Added Room: Name=U_电源3
+Added Room: Name=输出板
+Added Room: Name=高压刺激电路

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetP12_1 Pin=P?-2
+Removed Pin From Net: NetName=STIM- Pin=Q8-3
+Removed Member From Class: ClassName=U_ADC_USB Member=P10
+Removed Member From Class: ClassName=输出板 Member=P11
+Removed Member From Class: ClassName=输出板 Member=P12
+Removed Member From Class: ClassName=高压刺激电路 Member=P?
+Change Component DesignItemId : Designator=P15 Old DesignItemId=Header 5H New DesignItemId=Header 5
+Change Component Footprint: Designator=P15 Old Footprint=HDR1X5H New Footprint=HDR1X5
+Change Component Comment : Designator=P15 Old Comment=Header 5H New Comment=Header 5
+Added Room: Name=U_ADC_USB
+Added Room: Name=U_Li_Monitor
+Added Room: Name=U_电源3
+Added Room: Name=输出板
+Added Room: Name=高压刺激电路

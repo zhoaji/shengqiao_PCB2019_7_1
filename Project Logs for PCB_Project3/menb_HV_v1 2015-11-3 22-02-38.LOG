@@ -1,0 +1,5 @@
+Added Component: Designator=POWER4(HDR1X3)
+Added Pin To Net: NetName=GND60V Pin=POWER4-1
+Added Pin To Net: NetName=GND60V Pin=POWER4-2
+Added Pin To Net: NetName=GND60V Pin=POWER4-3
+Added Member To Class: ClassName=Êä³ö°å Member=Component POWER4 Header 3
